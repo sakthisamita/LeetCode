@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sakthisamita/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/sakthisamita/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/sakthisamita/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sakthisamita/LeetCode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/sakthisamita/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/sakthisamita/LeetCode/tree/master/0338-counting-bits) |
 ## Bit Manipulation
 |  |
