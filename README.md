@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sakthisamita/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sakthisamita/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sakthisamita/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0238-product-of-array-except-self](https://github.com/sakthisamita/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sakthisamita/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sakthisamita/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Sliding Window
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakthisamita/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sakthisamita/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
