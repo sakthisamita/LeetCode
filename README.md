@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sakthisamita/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sakthisamita/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sakthisamita/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/sakthisamita/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sakthisamita/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sakthisamita/LeetCode/tree/master/0054-spiral-matrix) |
@@ -87,5 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sakthisamita/LeetCode/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/sakthisamita/LeetCode/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sakthisamita/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
