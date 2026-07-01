@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sakthisamita/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sakthisamita/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sakthisamita/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/sakthisamita/LeetCode/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,9 +72,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/sakthisamita/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sakthisamita/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakthisamita/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/sakthisamita/LeetCode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sakthisamita/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sakthisamita/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/sakthisamita/LeetCode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
