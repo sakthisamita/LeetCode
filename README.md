@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sakthisamita/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/sakthisamita/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/sakthisamita/LeetCode/tree/master/0867-transpose-matrix) |
+| [2363-merge-similar-items](https://github.com/sakthisamita/LeetCode/tree/master/2363-merge-similar-items) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakthisamita/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/sakthisamita/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sakthisamita/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2363-merge-similar-items](https://github.com/sakthisamita/LeetCode/tree/master/2363-merge-similar-items) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/sakthisamita/LeetCode/tree/master/0056-merge-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sakthisamita/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2363-merge-similar-items](https://github.com/sakthisamita/LeetCode/tree/master/2363-merge-similar-items) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sakthisamita/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sakthisamita/LeetCode/tree/master/0206-reverse-linked-list) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/sakthisamita/LeetCode/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
