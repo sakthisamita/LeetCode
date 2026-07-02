@@ -8,13 +8,14 @@ public:
         for (int i: numSet) {
             if (prev+1==i) {
                 temp++;
+                x = max (x, temp);
             }
             else {
-                x = max(x, temp);
                 temp = 1;
             }
-            prev = i;
             x = max (x, temp);
+            prev = i;
+            
         }
         return x;
     }
