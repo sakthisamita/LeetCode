@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sakthisamita/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/sakthisamita/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthisamita/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sakthisamita/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sakthisamita/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0463-island-perimeter](https://github.com/sakthisamita/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/sakthisamita/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakthisamita/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/sakthisamita/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthisamita/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sakthisamita/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sakthisamita/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2363-merge-similar-items](https://github.com/sakthisamita/LeetCode/tree/master/2363-merge-similar-items) |
 ## String
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/sakthisamita/LeetCode/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthisamita/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sakthisamita/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sakthisamita/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2363-merge-similar-items](https://github.com/sakthisamita/LeetCode/tree/master/2363-merge-similar-items) |
 ## Binary Search
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sakthisamita/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakthisamita/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthisamita/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sakthisamita/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sakthisamita/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sakthisamita/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakthisamita/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sakthisamita/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sakthisamita/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
